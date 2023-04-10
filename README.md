@@ -1,5 +1,5 @@
 # AI_ML Notebooks
-Industry training in AIML Heart dieseases detection using artificial intelligence, machine learning and data analysis.
+Industry training in Heart dieseases detection using artificial intelligence, machine learning and data analysis.
 
 
 
